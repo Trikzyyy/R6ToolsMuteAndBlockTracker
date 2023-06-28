@@ -1,0 +1,8 @@
+{
+    "email" : "your mail/ton mail",
+    "mdp" : "your password/ton mdp",
+    "url2" : "your discord webhook/ton discord webhook > check README.txt for more info",
+    "lang" : "fr or/ou en > check README.txt for more info",
+    "bind_pseudo_tracker" : "enter the bind for the search by name function ( must be only 1 bind, no caps) > '.' for example / entrer la variable que vous souhaitez utiliser pour la recherche par nom (1 seule touche, pas majuscule)> ';' par exemple > Check README.txt for more info",
+    "bind_mute" : "Enter the bind to mute/unmute the R6 window (for prep phase mainly)"
+}

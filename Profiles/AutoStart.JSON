@@ -1,0 +1,4 @@
+{
+    "tracker_exe" : "Here copy you're path to the TrikzyBlockStatsTracker.exe but with all \\ 2 times, if you put only one it will not work, check example",
+    "example" : "c:\\Users\\Trikzy\\Desktop\\app\\Trikzy Block Bot Modif\\TrikzyBlockStatsTrackerV1.0.exe"
+}
