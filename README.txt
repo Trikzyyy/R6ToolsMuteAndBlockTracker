@@ -38,7 +38,9 @@ If it close after a search, that mean the name don't exist or stats are 0, i got
 Autostart: 
 This will allow you to open the .exe automaticaly once you start R6, check AUTOSTART.txt for more info about it.
 
-SoundVolumeView : 
+svcl : 
 Its the .exe i use for the mute R6 fonctionnality, you don't need to start it to use this fonctionnality, just let it here
 
+Switch :
+It's the .bat i'm using to mute the game, if you start it manually,it'll mute/unmute the game
 

@@ -38,5 +38,9 @@ Si elle se ferme après la recherche, c'est que le compte n'existe pas et que mo
 autoexec :
 Ce fichier va vous permettre de lancer automatiquement l'app lorsque vous lancerez R6, voir AUTOSTART-Fr pour plus d'info
 
-SoundVolumeView : 
+svcl : 
 C'est le .exe que j'utilise pour le mute/demute, vous avez pas besoin de le lancer, simplement laissez le dans le dossier sans le déplacer
+
+switch : 
+C'est le .bat utiliser pour mute/demute r6, si vous le lancez manuellement votre jeu sera mute ou demute
+
