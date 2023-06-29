@@ -1,2 +1,0 @@
-SoundVolumeView.exe /Switch "Rainbow Six"
-SoundVolumeView.exe /Unmute "Discord"
