@@ -22,6 +22,10 @@ Lancer TrikzyBlockStatsTrackerV1.0.exe (app principale)
 COMMENT CELA MARCHE
 Lorsque une personne sera bloqué par votre compte ubisoft, le bot webhook va envoyer ses stats dans le salon choisi. 
 Tous les stats sont en ranked, sauf si la personne n'a jamais jouer en ranked de la saison, ses stats de casu s'afficheront (kd, k/m) 
+
+Si vous avez plusieurs comptes, allez sur Help > aide francais > MultiCompte-Fr.txt  pour configurer un choix du compte utilisé lors du lancement (besoin de rentrer les comptes une seule
+fois et sera sauvegarder en local) 
+
 Pour toutes questions > mp twitter : @TrikzyR6
 Si l'application ne répond plus, cela signifie qu'une erreur c'est produite, si vous trouvez la raison de l'erreur, contactez moi
 Quand cela arrive, relancez juste l'app
@@ -36,7 +40,7 @@ Aucun interface fait dessus, vu que c'est supposé marcher avec l'app principal.
 Si elle se ferme après la recherche, c'est que le compte n'existe pas et que mon cas d'erreur à un problème, si cela vous le fait, contactez moi avec le pseudo rechercher
 
 autoexec :
-Ce fichier va vous permettre de lancer automatiquement l'app lorsque vous lancerez R6, voir AUTOSTART-Fr pour plus d'info
+Ce fichier va vous permettre de lancer automatiquement l'app lorsque vous lancerez R6, voir Help > aide francais > AUTOSTART-Fr pour plus d'info
 
 svcl : 
 C'est le .exe que j'utilise pour le mute/demute, vous avez pas besoin de le lancer, simplement laissez le dans le dossier sans le déplacer
@@ -44,3 +48,7 @@ C'est le .exe que j'utilise pour le mute/demute, vous avez pas besoin de le lanc
 switch : 
 C'est le .bat utiliser pour mute/demute r6, si vous le lancez manuellement votre jeu sera mute ou demute
 
+
+
+Toutes les données que vous rentrez sont enregistrée uniquement en local et aucune données n'est accessible par quelqu'un d'autre que vous. 
+Evidemment, aucun code A2F n'est nécessaire lors de la connexion, et donc par conséquent aucun problème de sécurité ne peut être créer.

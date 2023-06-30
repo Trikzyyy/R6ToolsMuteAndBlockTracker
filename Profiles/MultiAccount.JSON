@@ -1,0 +1,45 @@
+{
+    "number_account" : "1",
+
+    "mail1" : "",
+    "mdp1" : "",
+    "name1" : "",
+
+    "mail2" : "",
+    "mdp2" : "",
+    "name2" : "",
+
+    "mail3" : "",
+    "mdp3" : "",
+    "name3" : "",
+
+    "mail4" : "",
+    "mdp4" : "",
+    "name4" : "",
+
+    "mail5" : "",
+    "mdp5" : "",
+    "name5" : "",
+
+    "mail6" : "",
+    "mdp6" : "",
+    "name6" : "",
+
+    "mail7" : "",
+    "mdp7" : "",
+    "name7" : "",
+
+    "mail8" : "",
+    "mdp8" : "",
+    "name8" : "",
+
+    "mail9" : "",
+    "mdp9" : "",
+    "name9" : "",
+
+    "mail10" : "",
+    "mdp10" : "",
+    "name10" : "",
+
+    "help" : "For any information of this JSON, read Multi-Account.txt"
+}

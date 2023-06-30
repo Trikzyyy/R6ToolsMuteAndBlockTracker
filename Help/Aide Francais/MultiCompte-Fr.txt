@@ -1,0 +1,25 @@
+Multi Compte pour TrikzyBlockStatTracker
+
+############################################
+FR
+############################################
+
+Ce .txt va expliquer comment configurer l'app quand vous utilisez plusieurs comptes différents
+
+Tous d'abord, configurer le Profiles.JSON normalement, comme expliquer dans le README
+
+Puis, aller dans Profiles/MultiAccount.JSON.
+
+Entrez le nombres de comptes que vous souhaitez utiliser, max 10 (par défaut 1, lorsque que 1 > lance avec le compte de Profiles.JSON)
+
+Puis, entrez les mail et les mdp des compte que vous souhaitez utiliser 
+
+Les variables "name"  sont uniquements pour vous et l'affichage, ca va s'afficher au démarrage avec ces noms la
+Vous pouvez donc mettre des noms comme "Main" ou "Smurf"  sans problèmes
+
+COMMENT CA MARCHE: 
+Quand vous lancez, au lieu de se co directement vous aurez une page avec tous les noms de comptes rentrés (en fonction de nombre choisi) 
+Chaque compte possède un numéro lié, appuyez sur ce nombre pour vous connecter au compte que vous souhaitez
+Je recommande d'utiliser les chiffres du clavier directement et pas le pavé numérique 
+
+Si vous rencontrez un bug dans cette fonctionnalité ou que vous n'arrivez pas a config > Twitter : @TrikzyR6 

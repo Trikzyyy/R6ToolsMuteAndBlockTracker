@@ -1,0 +1,25 @@
+MultiAccount for TrikzyBlockStatTracker
+
+############################################
+EN
+############################################
+
+This .txt will explain you how to configure the app when you use different account.
+
+At first, configure the Profiles.JSON normaly, like explained in README
+
+Then, go to Profiles/MultiAccount.JSON.
+
+Enter the number you want to use of account in "number_account", max 10 (default value is 1 and when it's 1, it only use the account in Profiles.JSON)
+
+Then, enter the mail and password (in the mdp case) (mdp mean password in french and i'm bored to change it for every time i use it)
+
+The name case is only for you, it will show you this name when you start this app and have to choose the account you want to.
+You can put name like "Main" and "Smurf" if you want.
+
+HOW IT WORK : 
+When you start the app, instead of instantly connecting to an account, it show you a page with the name of all the account you entered (make sure to put the right number of acc)
+Each account are link with a number, press this number to connect to the account
+I recommend to use the keyboard number and not the numeric keypad (didn't tryed since it's not on my french keyboard but it might bug with numeric keypad) 
+
+If you see any bug, or you don't manage to configure this > contact Twitter : @TrikzyR6

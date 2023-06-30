@@ -1,0 +1,33 @@
+AUTOSTART pour TrikzyBlockStatTracker
+
+############################################
+FR
+############################################
+
+Ce fichier va permettre d'expliquer comment configurer cette appli pour qu'elle se lance à chaque fois que vous lancez R6, pour ne pas avoir à le faire manuellement
+
+Allez sur le dossier "Profiles", ouvrez AutoStart.JSON (ouvrir avec bloc note si vous n'avez pas d'éditeur. Suivez les instructions (juste mettre le chemin vers le fichier)
+
+Si vous ne savez pas comment trouver le chemin, regardez le dossier Images et l'image find_folder.png 
+
+N'oubliez pas de modifier tous les "\" de votre chemin pour "\\" ou ca ne marchera pas.
+
+Une fois que c'est fait, faites Windows+R et écrivez "shell:startup", ca devrait ouvrir l'explorateur de fichier à l'endroit de démarrage.
+
+Copier le fichier Launcher.exe et le dossier Profiles que vous avez modifier dedans et c'est bon  (ne pas oubliez de dossier Profiles). 
+
+!!!Il faut s'assurer que le fichier "Profiles.JSON" soit bon aussi dans le démarrage, ou l'app ne marchera pas > Si vous la modifier, la modifier ici désormais
+
+Evidemment, vérifier que vous avez bien copier et surtout pas déplacer ceci, sinon l'app principale ne marchera plus
+
+C'est bon, désormais à chaque fois que vous lancerez R6, le .exe s'ouvrira avec
+
+Le .exe s'ouvre 2 minutes après la premières ouverture du launcher R6 (pour éviter tous problème de compatibilité avec les PC plus lent)
+
+Marche qu'une seule fois par démarrage évidemment, et si changement de compte donc relancement automatique du jeu 2 fois cela bugera probablement
+
+(Il faut redémarrer le PC pour que les modifications soit prise en compte la première fois, puis ca sera bon)
+
+Si difficultés à config > twitter > @TrikzyR6
+
+Si problème antivirus windows, allez simplement dans les configuration en temps réel et autoriser l'application Launcher.exe

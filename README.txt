@@ -22,12 +22,16 @@ HOW IT WORK :
 When you block someone with the ubisoft account you entered, the discord webhook bot will send you all the stat needed in the channel you choosed
 All the stats are in ranked only, except if the account has never played ranked in this season, his actual casual stats will be shown (kd, k/m) 
 Press the bind you chosed for the other options
+
+If you have more than 1 account, you can configure and save all of them, read in help folders > MultiAccount.txt for more information
+
 For every question you have > dm twitter : @TrikzyR6
 If the app doesn't respond, it means an error occured, if you find why it's happening, tell me on twitter so i can fix it
 When it happens, just restart the app
 For any recommends or bug correct (and also english mistake, i'm french so if there are some mistakes, tell me) > dm twitter : @TrikzyR6
 
 If you want to put the app on you're desktop without all the other files, just create a shortcut (right click) 
+
 
 TrikzyPseudoTracker.exe :
 Alt app that i added for the "Search by name" function on the main app (TrikzyBlockStatsTracker).
@@ -36,11 +40,13 @@ Theres no interface on it since its supposed to work with main app.
 If it close after a search, that mean the name don't exist or stats are 0, i got error case but it might bug, if it do, dm me with the name that you wrote and what's the app returns you
 
 Autostart: 
-This will allow you to open the .exe automaticaly once you start R6, check AUTOSTART.txt for more info about it.
+This will allow you to open the .exe automaticaly once you start R6, check in Help folders > AUTOSTART.txt for more info about it.
 
 svcl : 
-Its the .exe i use for the mute R6 fonctionnality, you don't need to start it to use this fonctionnality, just let it here
+Its the .exe i use for the mute R6 fonctionnality, you don't need to start it to use this fonctionnality, just let it here  - NIRCMD app 
 
 Switch :
 It's the .bat i'm using to mute the game, if you start it manually,it'll mute/unmute the game
 
+
+All information like password are saved in local and only you can see them. 

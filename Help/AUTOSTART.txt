@@ -1,0 +1,34 @@
+AUTOSTART FOR TrikzyBlockStatTracker
+
+############################################
+EN
+############################################
+
+This .txt will explain you how to configure this app to autostart when you're starting R6, so you don't have to do this manually
+
+Go to the "Profiles" folder, go on the files "AutoStart.JSON" (if you have no text editor, open it with the notepad) follow the instruction on it (just put path to the .exe)
+
+If you don't know how to find the PATH-To, check the Images folder and open find_folder.png
+
+Dont forget to put every "\" to "\\" in your path.
+
+Once it's done, press Windows+R and write "shell:startup", it should go to the startup files.
+
+Copy the Launcher.exe into it and the Profiles folder too. Don't forget the Profiles folder
+
+Of course, make sure that you copy it and didn't move it, or the main app will not work
+
+!!!The Profiles.JSON have to be modified and good on the startup folder too, and if you want to modify it, you have to modify it on both now
+
+Now it's done, and everytime youre starting R6, the .exe will start too so you don't have to.
+
+The .exe start 2 minutes after the first launch of R6's launcher (so there's no problem with slow computer) 
+
+Also work only once by restart of PC, if you launch it another time, you'll need to restart the app (if you closed it), and also if swapped account and r6
+auto restart twice, it will probably bug so do it manually in this case.
+
+(You must restart the PC for the modifications to work for the first time, then it's ok)
+
+If you have any problem for config > twitter > @TrikzyR6
+
+If Windows antivirus error, just go in settings and allow the app Launcher.exe to run 
